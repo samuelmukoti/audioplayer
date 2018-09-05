@@ -10,8 +10,8 @@ flutter:
     pluginClass: AudioplayersPlugin
 
 dependencies:
-  uuid: ^1.0.3
-  path_provider: ^0.4.1
+  uuid: any
+  path_provider: any
   flutter:
     sdk: flutter
 
